@@ -1,0 +1,11 @@
+F:\yunfiles\XFiles\UnityFile\Unity3DTest\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+F:\yunfiles\XFiles\UnityFile\Unity3DTest\Temp\bin\Debug\Assembly-CSharp.dll
+F:\yunfiles\XFiles\UnityFile\Unity3DTest\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\yunfiles\XFiles\UnityFile\Unity3DTest\Temp\bin\Debug\UnityEditor.dll
+F:\yunfiles\XFiles\UnityFile\Unity3DTest\Temp\bin\Debug\UnityEngine.dll
+F:\yunfiles\XFiles\UnityFile\Unity3DTest\Temp\bin\Debug\Mono.Cecil.dll
+F:\yunfiles\XFiles\UnityFile\Unity3DTest\Temp\bin\Debug\nunit.framework.dll
+F:\yunfiles\XFiles\UnityFile\Unity3DTest\Temp\bin\Debug\Unity.DataContract.dll
+F:\yunfiles\XFiles\UnityFile\Unity3DTest\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\yunfiles\XFiles\UnityFile\Unity3DTest\obj\Debug\Assembly-CSharp.dll
+F:\yunfiles\XFiles\UnityFile\Unity3DTest\obj\Debug\Assembly-CSharp.pdb

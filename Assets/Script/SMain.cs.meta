@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: d09638b2fdef3e84286fcaa447f3d3d8
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - CollisionObj1: {fileID: 100006, guid: bcd88a3e1fbd1b14e9e1527f0fbb8994, type: 2}
+  - CollisionObj2: {fileID: 100004, guid: e32f359ba60ede84b944320d87db7094, type: 2}
+  - CollisionObj3: {fileID: 100006, guid: 3ef5fb2fe14a9ea41a07558d7575a464, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

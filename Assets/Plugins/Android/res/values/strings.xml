@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">有米Android SDK Sample</string>
+    <string name="showOffersWall">展示积分墙(全屏)</string>
+    <string name="showOffersDialog">展示积分墙(对话框)</string>
+    <string name="awardPoints">奖励10积分</string>
+    <string name="spendPoints">消费20积分</string>
+    <string name="showSpot">展示插播广告</string>
+    <string name="showSmartBanner">展示SmartBanner</string>
+    <string name="toAdActivity">无积分广告</string>
+    <string name="diy">自定义广告</string>
+    <string name="toOffersActivity">积分广告</string>
+    <string name="updateApp">检查应用更新</string>
+</resources>
